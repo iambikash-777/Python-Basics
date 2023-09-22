@@ -16,5 +16,9 @@ print(msg)
 #Special object indicating nulls
 a =None
 print(a) 
- 
+#complex numbers
+c= complex(1,2)
+print(c.real)
+print(c.conjugate())
+
 
